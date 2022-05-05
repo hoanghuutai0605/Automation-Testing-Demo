@@ -1,3 +1,3 @@
 # Automation-Testing-D
 Mở terminal thư mục => npm install puppeteer 
-node index.js để test
+Node index.js để test
